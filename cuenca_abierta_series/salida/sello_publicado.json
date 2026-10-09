@@ -1,0 +1,14 @@
+{
+  "cabeza_cadena": "81dfc0cdb9def0252caee9f72fca29ac30b1f51a34d11072ecfed4ce4edbabd7",
+  "n_lotes": 60202,
+  "n_lecturas": {
+    "caudal": 18874,
+    "sensores": 1349768,
+    "laboratorio": 3315
+  },
+  "generado_utc": "2026-10-09T00:39:46Z",
+  "generador": "cuenca-abierta-gen v1.0",
+  "semilla": 20251104,
+  "algoritmo": "SHA-256; raíz de Merkle por lote; hash_lote = SHA256(lote_id|dataset|n|raiz|anterior)",
+  "como_verificar": "python verificar_sello.py"
+}

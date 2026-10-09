@@ -1,0 +1,8 @@
+anio_hidrologico,rio,tipo,derrame_hm3,media_historica_hm3,fuente,fuente_url,nota
+2018/19,San Juan,observado,1042,1900,Diario de Cuyo 02-11-2019,https://www.diariodecuyo.com.ar/suplementos/Este-es-el-ano-mas-seco-de-los-ultimos-30-en-el-rio-San-Juan-20191102-0016.html,se traslada al Jáchal con exponente 0.8
+2019/20,San Juan,observado,634,1900,Tiempo de San Juan,https://www.tiempodesanjuan.com/economia/san-juan-vive-otra-sequia-pero-la-mas-cruel-fue-hace-50-anos-canales-preparados-y-diques-n360893,se traslada al Jáchal con exponente 0.8
+2020/21,San Juan,observado,608,1900,Tiempo de San Juan,https://www.tiempodesanjuan.com/economia/san-juan-vive-otra-sequia-pero-la-mas-cruel-fue-hace-50-anos-canales-preparados-y-diques-n360893,se traslada al Jáchal con exponente 0.8
+2021/22,San Juan,observado,537,1900,Tiempo de San Juan,https://www.tiempodesanjuan.com/economia/san-juan-vive-otra-sequia-pero-la-mas-cruel-fue-hace-50-anos-canales-preparados-y-diques-n360893,se traslada al Jáchal con exponente 0.8
+2022/23,Jáchal,pronostico,205.22,326,Diario Huarpe 12-10-2023 (pronóstico de Hidráulica),https://www.diariohuarpe.com/nota/el-pronostico-hidrico-en-san-juan-es-peor-que-el-del-2022-2023-y-sera-mas-seco-2023101211140,
+2023/24,Jáchal,pronostico,116.33,326,Diario Huarpe 12-10-2023 (pronóstico de Hidráulica),https://www.diariohuarpe.com/nota/el-pronostico-hidrico-en-san-juan-es-peor-que-el-del-2022-2023-y-sera-mas-seco-2023101211140,
+2025/26,Jáchal,pronostico,190,326,Diario de Cuyo (pronóstico de Hidráulica 2025/26),https://www.diariodecuyo.com.ar/economia/pronostico-hidrico-oficial-para-el-periodo-octubre-2025-septiembre-2026-se-preve-que-sea-muy-seco-con-un-derrame-medio-de-apenas-950-hm3-1783078.html,~6 m3/s

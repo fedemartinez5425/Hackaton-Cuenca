@@ -1,0 +1,109 @@
+punto_id,anio,uso,n_muestras,n_parametros,F1,F2,F3,ica,categoria,parametros_que_fallan
+BLA,2024,bebida_fuente,4,11,36.4,34.3,47.9,60.0,Marginal,aluminio; arsenico; boro; hierro
+BLA,2025,bebida_fuente,5,12,33.3,30.6,45.0,63.2,Marginal,aluminio; arsenico; boro; hierro
+BLA,2026,bebida_fuente,3,10,40.0,39.3,44.9,58.5,Marginal,aluminio; arsenico; boro; hierro
+EMB,2024,bebida_fuente,14,10,20.0,26.2,14.8,79.1,Regular,arsenico; boro
+EMB,2025,bebida_fuente,15,10,20.0,27.8,12.8,78.9,Regular,arsenico; boro
+EMB,2026,bebida_fuente,10,10,30.0,25.3,9.5,76.7,Regular,aluminio; arsenico; boro
+IGL,2024,bebida_fuente,4,9,22.2,22.9,39.4,70.7,Regular,arsenico; boro
+IGL,2025,bebida_fuente,5,12,33.3,30.8,35.8,66.6,Regular,aluminio; arsenico; boro; hierro
+IGL,2026,bebida_fuente,3,11,36.4,29.0,34.5,66.5,Regular,aluminio; arsenico; boro; hierro
+JAB,2024,bebida_fuente,6,9,33.3,35.9,18.7,69.7,Regular,arsenico; boro; hierro
+JAB,2025,bebida_fuente,7,9,22.2,31.8,15.4,75.9,Regular,arsenico; boro
+JAB,2026,bebida_fuente,4,9,22.2,29.6,11.4,77.6,Regular,arsenico; boro
+JCO,2024,bebida_fuente,4,11,27.3,23.7,11.6,78.1,Regular,aluminio; arsenico; boro
+JCO,2025,bebida_fuente,4,12,33.3,26.3,14.3,74.1,Regular,aluminio; arsenico; boro; hierro
+JCO,2026,bebida_fuente,3,11,36.4,28.6,9.4,72.8,Regular,aluminio; arsenico; boro; hierro
+LAM,2024,bebida_fuente,4,9,22.2,24.2,12.0,79.8,Regular,arsenico; boro
+LAM,2025,bebida_fuente,5,10,20.0,22.7,10.8,81.4,Buena,arsenico; boro
+LAM,2026,bebida_fuente,3,9,22.2,25.0,10.4,79.8,Regular,arsenico; boro
+PAC,2024,bebida_fuente,14,11,36.4,30.1,15.6,71.3,Regular,aluminio; arsenico; boro; hierro
+PAC,2025,bebida_fuente,14,12,33.3,33.6,15.6,71.2,Regular,aluminio; arsenico; boro; hierro
+PAC,2026,bebida_fuente,10,11,36.4,34.1,15.2,69.9,Regular,aluminio; arsenico; boro; hierro
+PAL,2024,bebida_fuente,6,10,20.0,31.6,12.8,77.2,Regular,arsenico; boro
+PAL,2025,bebida_fuente,7,11,36.4,36.5,11.8,69.5,Regular,aluminio; arsenico; boro; hierro
+PAL,2026,bebida_fuente,4,12,33.3,34.4,17.9,70.5,Regular,aluminio; arsenico; boro; hierro
+TAG,2024,bebida_fuente,4,10,20.0,13.5,5.2,85.7,Buena,aluminio; boro
+TAG,2025,bebida_fuente,5,11,27.3,19.1,8.0,80.2,Buena,aluminio; boro; hierro
+TAG,2026,bebida_fuente,3,11,27.3,16.7,9.8,80.7,Buena,aluminio; boro; hierro
+BLA,2024,vida_acuatica,4,11,45.5,43.6,66.3,47.2,Marginal,aluminio; arsenico; boro; cinc; cromo_total
+BLA,2025,vida_acuatica,5,12,50.0,37.0,66.9,47.3,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+BLA,2026,vida_acuatica,3,10,50.0,41.9,64.4,47.1,Marginal,aluminio; arsenico; boro; cinc; cromo_total
+EMB,2024,vida_acuatica,14,10,40.0,37.2,24.6,65.4,Regular,aluminio; arsenico; boro; cinc
+EMB,2025,vida_acuatica,15,10,40.0,37.8,20.4,66.1,Regular,aluminio; arsenico; boro; cinc
+EMB,2026,vida_acuatica,10,10,40.0,37.4,20.6,66.2,Regular,aluminio; arsenico; boro; cinc
+IGL,2024,vida_acuatica,4,9,44.4,38.5,50.8,55.1,Marginal,aluminio; arsenico; boro; cinc
+IGL,2025,vida_acuatica,5,12,50.0,43.9,47.6,52.8,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+IGL,2026,vida_acuatica,3,11,36.4,35.3,45.1,60.8,Marginal,aluminio; arsenico; boro; cinc
+JAB,2024,vida_acuatica,6,9,44.4,40.8,27.9,61.6,Marginal,aluminio; arsenico; boro; cinc
+JAB,2025,vida_acuatica,7,9,44.4,41.8,25.4,61.8,Marginal,aluminio; arsenico; boro; cinc
+JAB,2026,vida_acuatica,4,9,44.4,39.4,21.4,63.6,Marginal,aluminio; arsenico; boro; cinc
+JCO,2024,vida_acuatica,4,11,45.5,38.1,48.3,55.8,Marginal,aluminio; arsenico; boro; cinc; cromo_total
+JCO,2025,vida_acuatica,4,12,50.0,40.5,49.6,53.1,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+JCO,2026,vida_acuatica,3,11,54.5,45.2,52.2,49.2,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+LAM,2024,vida_acuatica,4,9,44.4,35.1,20.8,65.2,Regular,aluminio; arsenico; boro; cinc
+LAM,2025,vida_acuatica,5,10,40.0,38.8,20.5,65.7,Regular,aluminio; arsenico; boro; cinc
+LAM,2026,vida_acuatica,3,9,44.4,37.0,18.5,64.9,Marginal,aluminio; arsenico; boro; cinc
+PAC,2024,vida_acuatica,14,11,45.5,38.9,27.1,62.1,Marginal,aluminio; arsenico; boro; cinc; cobre
+PAC,2025,vida_acuatica,14,12,50.0,41.0,28.0,59.3,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+PAC,2026,vida_acuatica,10,11,45.5,40.2,30.7,60.7,Marginal,aluminio; arsenico; boro; cinc; cromo_total
+PAL,2024,vida_acuatica,6,10,40.0,37.5,39.9,60.9,Marginal,aluminio; arsenico; boro; cinc
+PAL,2025,vida_acuatica,7,11,54.5,41.3,35.7,55.5,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+PAL,2026,vida_acuatica,4,12,50.0,42.1,45.8,53.9,Marginal,aluminio; arsenico; boro; cinc; cobre; cromo_total
+TAG,2024,vida_acuatica,4,10,30.0,26.8,31.0,70.7,Regular,aluminio; boro; cinc
+TAG,2025,vida_acuatica,5,11,45.5,36.5,32.6,61.4,Marginal,aluminio; boro; cinc; cobre; cromo_total
+TAG,2026,vida_acuatica,3,11,36.4,27.3,28.4,69.1,Regular,aluminio; boro; cinc; cobre
+BLA,2024,riego,4,12,25.0,27.9,52.3,62.8,Marginal,arsenico; boro; conductividad
+BLA,2025,riego,5,13,23.1,22.0,47.9,66.8,Regular,arsenico; boro; conductividad
+BLA,2026,riego,3,11,27.3,20.6,48.3,65.8,Regular,arsenico; boro; conductividad
+EMB,2024,riego,14,11,9.1,10.5,23.7,84.1,Buena,boro
+EMB,2025,riego,15,11,9.1,10.7,20.8,85.5,Buena,boro
+EMB,2026,riego,10,11,9.1,10.0,18.8,86.6,Buena,boro
+IGL,2024,riego,4,10,20.0,18.6,37.5,73.2,Regular,arsenico; boro
+IGL,2025,riego,5,13,15.4,16.1,32.0,77.5,Regular,arsenico; boro
+IGL,2026,riego,3,12,16.7,16.2,30.4,77.9,Regular,arsenico; boro
+JAB,2024,riego,6,10,10.0,11.3,26.6,82.3,Buena,boro
+JAB,2025,riego,7,10,10.0,11.7,24.5,83.3,Buena,boro
+JAB,2026,riego,4,10,10.0,11.1,21.3,85.0,Buena,boro
+JCO,2024,riego,4,12,8.3,8.7,19.4,86.8,Buena,boro
+JCO,2025,riego,4,13,7.7,8.7,16.3,88.4,Buena,boro
+JCO,2026,riego,3,12,8.3,8.8,15.2,88.8,Buena,boro
+LAM,2024,riego,4,10,10.0,9.8,20.5,85.7,Buena,boro
+LAM,2025,riego,5,11,9.1,9.3,18.7,86.9,Buena,boro
+LAM,2026,riego,3,10,10.0,10.0,19.7,86.0,Buena,boro
+PAC,2024,riego,14,12,8.3,9.8,22.5,85.1,Buena,boro
+PAC,2025,riego,14,13,7.7,9.6,22.1,85.4,Buena,boro
+PAC,2026,riego,10,12,8.3,9.4,21.6,85.5,Buena,boro
+PAL,2024,riego,6,11,9.1,11.5,20.6,85.4,Buena,boro
+PAL,2025,riego,7,12,8.3,10.3,17.2,87.5,Buena,boro
+PAL,2026,riego,4,13,7.7,9.8,17.9,87.4,Buena,boro
+TAG,2024,riego,4,11,9.1,8.9,13.1,89.4,Buena,boro
+TAG,2025,riego,5,12,8.3,8.8,12.4,90.0,Buena,boro
+TAG,2026,riego,3,12,8.3,8.3,11.8,90.4,Buena,boro
+BLA,2024,ganado,4,8,12.5,17.4,3.1,87.5,Buena,boro
+BLA,2025,ganado,5,9,11.1,8.8,1.7,91.8,Buena,boro
+BLA,2026,ganado,3,7,14.3,10.5,1.4,89.7,Buena,boro
+EMB,2024,ganado,14,7,0.0,0.0,0.0,100.0,Excelente,
+EMB,2025,ganado,15,7,0.0,0.0,0.0,100.0,Excelente,
+EMB,2026,ganado,10,7,0.0,0.0,0.0,100.0,Excelente,
+IGL,2024,ganado,4,6,0.0,0.0,0.0,100.0,Excelente,
+IGL,2025,ganado,5,9,0.0,0.0,0.0,100.0,Excelente,
+IGL,2026,ganado,3,8,0.0,0.0,0.0,100.0,Excelente,
+JAB,2024,ganado,6,6,0.0,0.0,0.0,100.0,Excelente,
+JAB,2025,ganado,7,6,0.0,0.0,0.0,100.0,Excelente,
+JAB,2026,ganado,4,6,0.0,0.0,0.0,100.0,Excelente,
+JCO,2024,ganado,4,8,0.0,0.0,0.0,100.0,Excelente,
+JCO,2025,ganado,4,9,0.0,0.0,0.0,100.0,Excelente,
+JCO,2026,ganado,3,8,0.0,0.0,0.0,100.0,Excelente,
+LAM,2024,ganado,4,6,0.0,0.0,0.0,100.0,Excelente,
+LAM,2025,ganado,5,7,0.0,0.0,0.0,100.0,Excelente,
+LAM,2026,ganado,3,6,0.0,0.0,0.0,100.0,Excelente,
+PAC,2024,ganado,14,8,0.0,0.0,0.0,100.0,Excelente,
+PAC,2025,ganado,14,9,0.0,0.0,0.0,100.0,Excelente,
+PAC,2026,ganado,10,8,0.0,0.0,0.0,100.0,Excelente,
+PAL,2024,ganado,6,7,0.0,0.0,0.0,100.0,Excelente,
+PAL,2025,ganado,7,8,0.0,0.0,0.0,100.0,Excelente,
+PAL,2026,ganado,4,9,0.0,0.0,0.0,100.0,Excelente,
+TAG,2024,ganado,4,7,0.0,0.0,0.0,100.0,Excelente,
+TAG,2025,ganado,5,8,0.0,0.0,0.0,100.0,Excelente,
+TAG,2026,ganado,3,8,0.0,0.0,0.0,100.0,Excelente,

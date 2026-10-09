@@ -1,0 +1,60 @@
+{
+  "fecha": "2026-10-07",
+  "origen": "simulado",
+  "puntos": {
+    "EMB": {
+      "consumo_humano": {
+        "color": "verde",
+        "frase": "Sin alertas para consumo humano (siempre requiere potabilización) en lo que mide el sensor (pH, conductividad (sales)). Metales y arsénico: ver último análisis de laboratorio."
+      },
+      "ganado": {
+        "color": "verde",
+        "frase": "Sin alertas para bebida de animales en lo que mide el sensor (conductividad (sales)). Metales y arsénico: ver último análisis de laboratorio."
+      },
+      "riego": {
+        "color": "amarillo",
+        "frase": "Atención para riego: conductividad (sales) cerca del límite o con un cambio inusual. Dato preliminar."
+      },
+      "vida_acuatica": {
+        "color": "verde",
+        "frase": "Sin alertas para peces y vida acuática en lo que mide el sensor (pH, oxígeno disuelto). Metales y arsénico: ver último análisis de laboratorio."
+      }
+    },
+    "PAC": {
+      "consumo_humano": {
+        "color": "verde",
+        "frase": "Sin alertas para consumo humano (siempre requiere potabilización) en lo que mide el sensor (pH, conductividad (sales)). Metales y arsénico: ver último análisis de laboratorio."
+      },
+      "ganado": {
+        "color": "verde",
+        "frase": "Sin alertas para bebida de animales en lo que mide el sensor (conductividad (sales)). Metales y arsénico: ver último análisis de laboratorio."
+      },
+      "riego": {
+        "color": "amarillo",
+        "frase": "Atención para riego: conductividad (sales) cerca del límite o con un cambio inusual. Dato preliminar."
+      },
+      "vida_acuatica": {
+        "color": "verde",
+        "frase": "Sin alertas para peces y vida acuática en lo que mide el sensor (pH, oxígeno disuelto). Metales y arsénico: ver último análisis de laboratorio."
+      }
+    },
+    "PP": {
+      "consumo_humano": {
+        "color": "verde",
+        "frase": "Sin alertas para consumo humano (siempre requiere potabilización) en lo que mide el sensor (pH, conductividad (sales)). Metales y arsénico: ver último análisis de laboratorio."
+      },
+      "ganado": {
+        "color": "verde",
+        "frase": "Sin alertas para bebida de animales en lo que mide el sensor (conductividad (sales)). Metales y arsénico: ver último análisis de laboratorio."
+      },
+      "riego": {
+        "color": "amarillo",
+        "frase": "Atención para riego: conductividad (sales) cerca del límite o con un cambio inusual. Dato preliminar."
+      },
+      "vida_acuatica": {
+        "color": "verde",
+        "frase": "Sin alertas para peces y vida acuática en lo que mide el sensor (pH, oxígeno disuelto). Metales y arsénico: ver último análisis de laboratorio."
+      }
+    }
+  }
+}
